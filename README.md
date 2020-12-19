@@ -1,2 +1,3 @@
-# Capstaone
+# Capstone
+
 Class Final Capstone Project
